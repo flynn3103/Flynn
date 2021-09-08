@@ -13,10 +13,11 @@ const flynn3103 = {
     pronouns: "He" | "Him",
     code: ["Python", "SQL","C++","JavaScript","Scala"],
     technologies: {
-        mobileApp: ["React Native"],
         databases: ["MongoDB","PostgreSQL","SQL Server","Redis"],
         cloud: [AWS, Azure],
-        devOps: ["Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible"],
+        devOps: ["Docker", "Kubernetes", "Jenkins", "Terraform"],
+        MLOps: ["MLFlow", "Hydra", "Kubeflow","ONNX"]
+        DataEngineering: ["ETL, "Data Lake", "Data Warehouse", "Apache Airflow", "Kafka"]
         misc: ["ReactJS", "Web Scraping","Power BI"]
     }
 };

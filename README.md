@@ -14,11 +14,11 @@ const flynn3103 = {
     code: ["Python", "SQL","C++","JavaScript","Scala"],
     technologies: {
         databases: ["MongoDB","PostgreSQL","SQL Server","Redis"],
-        cloud: [AWS, Azure],
+        cloud: [AWS, GCP],
         devOps: ["Docker", "Kubernetes", "Jenkins", "Terraform"],
-        MLOps: ["MLFlow", "Hydra", "Kubeflow","ONNX"]
-        DataEngineering: ["ETL, "Data Lake", "Data Warehouse", "Apache Airflow", "Kafka"]
-        misc: ["ReactJS", "Web Scraping","Power BI"]
+        MLOps: ["MLFlow", "Hydra", "Kubeflow","ONNX", "DVC"],
+        DataEngineering: ["ETL", "Data Lake", "Data Warehouse", "Apache Airflow", "Kafka"]
+        misc: ["ReactJS", "Web Scraping","Git"]
     }
 };
 ```
